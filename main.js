@@ -26,7 +26,3 @@ function animate() {
   renderer.render(scene, camera);
 }
 animate();
-
-window.addEventListener("resize", () => {
-  sizes.
-})
